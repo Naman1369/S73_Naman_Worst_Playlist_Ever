@@ -22,7 +22,7 @@ Axios
 
 - Backend :-
 
-Node js with express js for serevr side application.
+Node js with express js for server side application.
 MongoDB for the database
 JWT (Javascript Web Token)   
 
