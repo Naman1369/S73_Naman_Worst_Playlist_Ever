@@ -13,6 +13,7 @@ Comments Section: Allow users to comment on and discuss each other's song choice
 
 ### Tech Stack:
 
+
 #### Frontend :-
 
 React.js
@@ -28,5 +29,6 @@ MongoDB for the database
 JWT (Javascript Web Token) 
 
 
-### Why this project:
+
+### Why this project:-
 This project was picked because it is unique and has a comedic angle, making it interesting and enjoyable to work on. It's an excellent opportunity to showcase your skills in full-stack development, such as designing and managing APIs, handling user authentication, and building a dynamic and interactive frontend.
