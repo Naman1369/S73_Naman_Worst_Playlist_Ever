@@ -8,24 +8,27 @@ Worst Playlist Ever is an app that lets you build and share lists of the most cr
 User Profiles: Create and manage user profiles to store personal playlists of terrible songs.
 Song Reviews and Ratings: Allow users to review and rate each song on their list.
 Search and Filter: Search for songs by title, artist, or genre, and filter lists based on various criteria.
-Comments Section: Allow users to comment on and discuss each other's song choices.   
+Comments Section: Allow users to comment on and discuss each other's song choices.
 
 
-## Tech Stack:
+### Tech Stack:
 
-- Frontend :-
+
+#### Frontend :-
 
 React.js
 Redux
 Tailwind css
-Axios  
+Axios 
 
-- Backend :-
+
+#### Backend :-
 
 Node js with express js for server side application.
 MongoDB for the database
-JWT (Javascript Web Token)   
+JWT (Javascript Web Token) 
 
 
-## Why this project:
+
+### Why this project:-
 This project was picked because it is unique and has a comedic angle, making it interesting and enjoyable to work on. It's an excellent opportunity to showcase your skills in full-stack development, such as designing and managing APIs, handling user authentication, and building a dynamic and interactive frontend.

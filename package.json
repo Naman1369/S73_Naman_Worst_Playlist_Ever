@@ -1,0 +1,12 @@
+{
+  "name": "s73_naman_worst_playlist_ever",
+  "version": "1.0.0",
+  "description": "Worst Playlist Ever is an app that lets you build and share lists of the most cringe-worthy, obnoxious, and simply bad music you've ever heard. Each user can log in and create their own list of bad songs, including reviews, ratings, and reasons why they believe the music deserves to be on the list. The idea is to have fun and bond over our musical misfortunes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
