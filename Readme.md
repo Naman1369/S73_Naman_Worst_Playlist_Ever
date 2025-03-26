@@ -32,3 +32,7 @@ JWT (Javascript Web Token)
 
 ### Why this project:-
 This project was picked because it is unique and has a comedic angle, making it interesting and enjoyable to work on. It's an excellent opportunity to showcase your skills in full-stack development, such as designing and managing APIs, handling user authentication, and building a dynamic and interactive frontend.
+
+
+Deployment Link - 
+https://s73-naman-worst-playlist-ever.onrender.com
