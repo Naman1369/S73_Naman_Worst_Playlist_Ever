@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ASAP Worst Playlist API",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
