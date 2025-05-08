@@ -1,3 +1,3 @@
 ## 🌐 Live Deployment
 
-Frontend deployed using [Netlify Drop](https://deluxe-nougat-57ea25.netlify.app/)
+Frontend deployed using [Netlify Drop](https://681c915a3698ee24112f2dde--sweet-maamoul-30a251.netlify.app/)
