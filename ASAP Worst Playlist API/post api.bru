@@ -1,0 +1,20 @@
+meta {
+  name: post api
+  type: http
+  seq: 2
+}
+
+post {
+  url: http://localhost:3000/api/songs
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "id": "1",
+    "title": "Baby Shark",
+    "artist": "Pinkfong"
+  }
+  
+}

@@ -1,0 +1,11 @@
+meta {
+  name: DELETE deletes a song
+  type: http
+  seq: 6
+}
+
+delete {
+  url: http://localhost:3000/api/songs/1
+  body: json
+  auth: inherit
+}
