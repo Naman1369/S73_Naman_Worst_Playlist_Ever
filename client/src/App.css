@@ -1,5 +1,61 @@
+/* Center the entire app with a fun background */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #ffe2e2, #fcd5ce);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
 .app-container {
   text-align: center;
   margin-top: 50px;
-  font-family: sans-serif;
+  padding: 30px;
+  background: #ffffffcc;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+}
+
+/* Page title */
+.app-container h1 {
+  font-size: 2.5rem;
+  color: #d62828;
+  margin-bottom: 10px;
+}
+
+/* Paragraph styling */
+.app-container p {
+  font-size: 1.1rem;
+  color: #333;
+  line-height: 1.5;
+}
+
+/* Song card styles */
+.song-card {
+  border: 2px dashed #ff4d6d;
+  background: #fff0f5;
+  padding: 20px;
+  margin-top: 1.5rem;
+  border-radius: 12px;
+  max-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 8px rgba(255, 77, 109, 0.3);
+}
+
+/* Song card text */
+.song-card h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #c1121f;
+}
+
+.song-card p {
+  margin: 4px 0;
+  font-size: 1rem;
+  color: #444;
 }

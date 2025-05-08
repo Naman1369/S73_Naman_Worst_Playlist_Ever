@@ -32,3 +32,9 @@ JWT (Javascript Web Token)
 
 ### Why this project:-
 This project was picked because it is unique and has a comedic angle, making it interesting and enjoyable to work on. It's an excellent opportunity to showcase your skills in full-stack development, such as designing and managing APIs, handling user authentication, and building a dynamic and interactive frontend.
+
+
+
+## 🌐 Live Deployment
+
+Frontend deployed using [Netlify Drop](https://681c915a3698ee24112f2dde--sweet-maamoul-30a251.netlify.app/)
