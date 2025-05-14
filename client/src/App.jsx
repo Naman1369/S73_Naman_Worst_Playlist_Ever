@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     fetch('http://localhost:3000/api/songs')  // replace with your actual backend URL if deployed
       .then(res => res.json())
-      .then(data => {
+      .then(data =>  {
         setSongs(data);
         setLoading(false);
       })
