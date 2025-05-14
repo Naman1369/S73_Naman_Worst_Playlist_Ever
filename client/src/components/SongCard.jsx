@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import "../App.css";
+import './SongCard.css';
+
 
 
 function SongCard({ song }) {

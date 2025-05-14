@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 require('dotenv').config();
-const connectDB = require('./database');
+const { connectDB } = require('./database');
 const routes = require('./routes');
 
 const app = express();
@@ -12,7 +12,7 @@ app.use(cors()); // Enable CORS
 app.use(express.json()); // Parse JSON
 
 // Connect to MongoDB
-// connectDB();   //comment this is not using mongodb  yet
+connectDB();   //comment this is not using mongodb  yet
 
 // Routes
 app.use('/api', routes);

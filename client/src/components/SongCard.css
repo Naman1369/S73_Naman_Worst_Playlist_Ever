@@ -1,0 +1,8 @@
+.song-card {
+  border: 2px dashed #f00;
+  background: #fff3f3;
+  padding: 16px;
+  margin-top: 1rem;
+  border-radius: 8px;
+  max-width: 300px;
+}
