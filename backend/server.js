@@ -12,7 +12,7 @@ app.use(cors()); // Enable CORS
 app.use(express.json()); // Parse JSON
 
 // Connect to MongoDB
-connectDB();
+// connectDB();   //comment this is not using mongodb  yet
 
 // Routes
 app.use('/api', routes);
@@ -27,7 +27,7 @@ app.get('/', (req, res) => {
     res.send("<h1>Head to /ping or /api/songs!</h1>");
 });
 
-// Start Server
+
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
 });
